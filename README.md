@@ -1,4 +1,4 @@
-🚀 Live Demo: https://mabbasrz.github.io/Fake-News-Detection-AI/
+
 
 # 🛡️ Fake News Detection System
 
