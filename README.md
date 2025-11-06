@@ -6,6 +6,10 @@
 ![AI](https://img.shields.io/badge/AI-Groq%20Llama%203.1-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?logo=github)](https://mabbasrz.github.io/Fake-News-Detection-AI/)
+[![Stars](https://img.shields.io/github/stars/Mabbasrz/Fake-News-Detection-AI?style=social)](https://github.com/Mabbasrz/Fake-News-Detection-AI/stargazers)
+[![Issues](https://img.shields.io/github/issues/Mabbasrz/Fake-News-Detection-AI)](https://github.com/Mabbasrz/Fake-News-Detection-AI/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet)](https://github.com/Mabbasrz/Fake-News-Detection-AI/pulls)
 
 > **Advanced Fake News Detection using AI + Machine Learning + Wikipedia Knowledge Base**
 
@@ -200,6 +204,8 @@ github fake news detection by Muzammil Abbas/
 ```
 
 ## 🎨 Screenshots
+
+Screenshots coming soon (UI preview and setup wizard will be added here.)
 
 ### Dark Theme
 - Neon cyan/green accents

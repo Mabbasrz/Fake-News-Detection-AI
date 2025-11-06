@@ -1,5 +1,7 @@
 # 🛡️ Fake News Detection AI
 
+[➡️ Live Demo](https://mabbasrz.github.io/Fake-News-Detection-AI/) · [GitHub Repo](https://github.com/Mabbasrz/Fake-News-Detection-AI)
+
 A hybrid Machine Learning + Groq AI system to detect fake news with a beautiful desktop UI and smart caching.
 
 - Repository: https://github.com/Mabbasrz/Fake-News-Detection-AI
@@ -8,6 +10,8 @@ A hybrid Machine Learning + Groq AI system to detect fake news with a beautiful 
 ---
 
 ## 🚀 Quick Start
+
+> Installation GIF and screenshots coming soon.
 
 1) Clone or download the repository
 2) Install requirements
