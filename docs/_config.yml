@@ -1,0 +1,7 @@
+title: Fake News Detection AI
+description: AI-powered fake news detection using Machine Learning and Groq AI
+theme: jekyll-theme-cayman
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/Mabbasrz/Fake-News-Detection-AI
