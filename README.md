@@ -1,3 +1,5 @@
+🚀 Live Demo: https://mabbasrz.github.io/Fake-News-Detection-AI/
+
 # 🛡️ Fake News Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
