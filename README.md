@@ -95,6 +95,8 @@ Open `config.json` and replace `YOUR_GROQ_API_KEY_HERE` with your actual API key
 }
 ```
 
+or when you start program it will ask api enter it in the box and ready 
+
 #### 5️⃣ Run Application
 
 **Quick Start (with loading bar):**
